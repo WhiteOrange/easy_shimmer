@@ -1,8 +1,10 @@
-![Timezone](https://github.com/WhiteOrange/flutter_timezone_name/assets/162456479/fe321fd5-3212-427b-b743-f335cef539d6)
 
 ## Features
 
 A flutter package to add adaptive shimmer in any widget for Android and IOS
+
+![device-2024-03-07-164828](https://github.com/WhiteOrange/easy_shimmer/assets/162456479/4c0d3746-c9ca-46e5-96eb-ee59df8bdfbd)
+![device-2024-03-07-165746](https://github.com/WhiteOrange/easy_shimmer/assets/162456479/3a1de6e5-84d4-4105-a2e5-3c4b4a454595)
 
 ## Getting started
 
@@ -33,3 +35,5 @@ easy_shimmer is basically an improved shimmer, so you can just use as an extensi
       ],
     )
 ```
+
+
