@@ -1,6 +1,6 @@
 name: easy_shimmer
 description: A flutter package to add adaptive shimmer in any widget for Android and IOS
-version: 0.0.3
+version: 0.0.4
 homepage: https://github.com/WhiteOrange/easy_shimmer.git
 
 environment:
