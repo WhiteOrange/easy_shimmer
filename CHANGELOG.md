@@ -1,3 +1,7 @@
+## 0.0.6
+
+* TODO: Add test cases, pub points and badges
+
 ## 0.0.5
 
 * TODO: Add more documentation and dartdoc comments
