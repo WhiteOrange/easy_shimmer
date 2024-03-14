@@ -1,3 +1,7 @@
+## 0.0.7
+
+* TODO: Update License MIT to  BSD 3-clause
+
 ## 0.0.6
 
 * TODO: Add test cases, pub points and badges
